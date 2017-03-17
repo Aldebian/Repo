@@ -1,2 +1,2 @@
 # Aldebian Private Repository
-Tempat Upload file-file aing.
+Tempat Upload file-file Aing.
